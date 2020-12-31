@@ -2,8 +2,8 @@
 layout: home
 ---
 
-## The Adventures of Ranthos &bull; Book One
 # Enter the Lamb's Head
+## The Adventures of Ranthos &bull; Book One
 *Released January 1, 2021*
 
 Ranthos and his sister Bellelar must fend for themselves after their berserker clan abandons them far from home. The locals hate and fear his people’s magical blood and bestial senses, and he knows violence is inevitable.
