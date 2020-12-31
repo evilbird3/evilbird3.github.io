@@ -5,4 +5,4 @@
 layout: home
 ---
 
-This is a home page from Jekyll
+ENTER THE LAMB'S HEAD
